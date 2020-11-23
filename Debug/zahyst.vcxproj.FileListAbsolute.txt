@@ -1,0 +1,2 @@
+E:\vs\zahyst\Debug\zahyst.exe
+E:\vs\zahyst\Debug\zahyst.pdb
